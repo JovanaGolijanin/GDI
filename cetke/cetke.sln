@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cetke", "cetke\cetke.csproj", "{6E6F1DEB-6691-4B41-8198-FEF358399883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E6F1DEB-6691-4B41-8198-FEF358399883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E6F1DEB-6691-4B41-8198-FEF358399883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E6F1DEB-6691-4B41-8198-FEF358399883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E6F1DEB-6691-4B41-8198-FEF358399883}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9BDFC3D-2507-4F03-A5D1-81D8858C9B42}
+	EndGlobalSection
+EndGlobal

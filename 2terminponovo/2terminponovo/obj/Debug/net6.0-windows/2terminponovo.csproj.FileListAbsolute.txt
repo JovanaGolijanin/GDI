@@ -1,0 +1,17 @@
+C:\GDI\2terminponovo\2terminponovo\bin\Debug\net6.0-windows\2terminponovo.exe
+C:\GDI\2terminponovo\2terminponovo\bin\Debug\net6.0-windows\2terminponovo.deps.json
+C:\GDI\2terminponovo\2terminponovo\bin\Debug\net6.0-windows\2terminponovo.runtimeconfig.json
+C:\GDI\2terminponovo\2terminponovo\bin\Debug\net6.0-windows\2terminponovo.dll
+C:\GDI\2terminponovo\2terminponovo\bin\Debug\net6.0-windows\2terminponovo.pdb
+C:\GDI\2terminponovo\2terminponovo\obj\Debug\net6.0-windows\2terminponovo.csproj.AssemblyReference.cache
+C:\GDI\2terminponovo\2terminponovo\obj\Debug\net6.0-windows\_2terminponovo.Form1.resources
+C:\GDI\2terminponovo\2terminponovo\obj\Debug\net6.0-windows\2terminponovo.csproj.GenerateResource.cache
+C:\GDI\2terminponovo\2terminponovo\obj\Debug\net6.0-windows\2terminponovo.GeneratedMSBuildEditorConfig.editorconfig
+C:\GDI\2terminponovo\2terminponovo\obj\Debug\net6.0-windows\2terminponovo.AssemblyInfoInputs.cache
+C:\GDI\2terminponovo\2terminponovo\obj\Debug\net6.0-windows\2terminponovo.AssemblyInfo.cs
+C:\GDI\2terminponovo\2terminponovo\obj\Debug\net6.0-windows\2terminponovo.csproj.CoreCompileInputs.cache
+C:\GDI\2terminponovo\2terminponovo\obj\Debug\net6.0-windows\2terminponovo.dll
+C:\GDI\2terminponovo\2terminponovo\obj\Debug\net6.0-windows\refint\2terminponovo.dll
+C:\GDI\2terminponovo\2terminponovo\obj\Debug\net6.0-windows\2terminponovo.pdb
+C:\GDI\2terminponovo\2terminponovo\obj\Debug\net6.0-windows\2terminponovo.genruntimeconfig.cache
+C:\GDI\2terminponovo\2terminponovo\obj\Debug\net6.0-windows\ref\2terminponovo.dll

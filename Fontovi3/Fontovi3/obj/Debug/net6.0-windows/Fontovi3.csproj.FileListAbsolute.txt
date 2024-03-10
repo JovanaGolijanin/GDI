@@ -1,0 +1,17 @@
+C:\GDI\Fontovi3\Fontovi3\bin\Debug\net6.0-windows\Fontovi3.exe
+C:\GDI\Fontovi3\Fontovi3\bin\Debug\net6.0-windows\Fontovi3.deps.json
+C:\GDI\Fontovi3\Fontovi3\bin\Debug\net6.0-windows\Fontovi3.runtimeconfig.json
+C:\GDI\Fontovi3\Fontovi3\bin\Debug\net6.0-windows\Fontovi3.dll
+C:\GDI\Fontovi3\Fontovi3\bin\Debug\net6.0-windows\Fontovi3.pdb
+C:\GDI\Fontovi3\Fontovi3\obj\Debug\net6.0-windows\Fontovi3.csproj.AssemblyReference.cache
+C:\GDI\Fontovi3\Fontovi3\obj\Debug\net6.0-windows\Fontovi3.Form1.resources
+C:\GDI\Fontovi3\Fontovi3\obj\Debug\net6.0-windows\Fontovi3.csproj.GenerateResource.cache
+C:\GDI\Fontovi3\Fontovi3\obj\Debug\net6.0-windows\Fontovi3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GDI\Fontovi3\Fontovi3\obj\Debug\net6.0-windows\Fontovi3.AssemblyInfoInputs.cache
+C:\GDI\Fontovi3\Fontovi3\obj\Debug\net6.0-windows\Fontovi3.AssemblyInfo.cs
+C:\GDI\Fontovi3\Fontovi3\obj\Debug\net6.0-windows\Fontovi3.csproj.CoreCompileInputs.cache
+C:\GDI\Fontovi3\Fontovi3\obj\Debug\net6.0-windows\Fontovi3.dll
+C:\GDI\Fontovi3\Fontovi3\obj\Debug\net6.0-windows\refint\Fontovi3.dll
+C:\GDI\Fontovi3\Fontovi3\obj\Debug\net6.0-windows\Fontovi3.pdb
+C:\GDI\Fontovi3\Fontovi3\obj\Debug\net6.0-windows\Fontovi3.genruntimeconfig.cache
+C:\GDI\Fontovi3\Fontovi3\obj\Debug\net6.0-windows\ref\Fontovi3.dll

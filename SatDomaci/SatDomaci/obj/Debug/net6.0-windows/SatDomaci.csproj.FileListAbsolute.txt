@@ -1,0 +1,17 @@
+C:\GDI\SatDomaci\SatDomaci\bin\Debug\net6.0-windows\SatDomaci.exe
+C:\GDI\SatDomaci\SatDomaci\bin\Debug\net6.0-windows\SatDomaci.deps.json
+C:\GDI\SatDomaci\SatDomaci\bin\Debug\net6.0-windows\SatDomaci.runtimeconfig.json
+C:\GDI\SatDomaci\SatDomaci\bin\Debug\net6.0-windows\SatDomaci.dll
+C:\GDI\SatDomaci\SatDomaci\bin\Debug\net6.0-windows\SatDomaci.pdb
+C:\GDI\SatDomaci\SatDomaci\obj\Debug\net6.0-windows\SatDomaci.csproj.AssemblyReference.cache
+C:\GDI\SatDomaci\SatDomaci\obj\Debug\net6.0-windows\SatDomaci.Form1.resources
+C:\GDI\SatDomaci\SatDomaci\obj\Debug\net6.0-windows\SatDomaci.csproj.GenerateResource.cache
+C:\GDI\SatDomaci\SatDomaci\obj\Debug\net6.0-windows\SatDomaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\GDI\SatDomaci\SatDomaci\obj\Debug\net6.0-windows\SatDomaci.AssemblyInfoInputs.cache
+C:\GDI\SatDomaci\SatDomaci\obj\Debug\net6.0-windows\SatDomaci.AssemblyInfo.cs
+C:\GDI\SatDomaci\SatDomaci\obj\Debug\net6.0-windows\SatDomaci.csproj.CoreCompileInputs.cache
+C:\GDI\SatDomaci\SatDomaci\obj\Debug\net6.0-windows\SatDomaci.dll
+C:\GDI\SatDomaci\SatDomaci\obj\Debug\net6.0-windows\refint\SatDomaci.dll
+C:\GDI\SatDomaci\SatDomaci\obj\Debug\net6.0-windows\SatDomaci.pdb
+C:\GDI\SatDomaci\SatDomaci\obj\Debug\net6.0-windows\SatDomaci.genruntimeconfig.cache
+C:\GDI\SatDomaci\SatDomaci\obj\Debug\net6.0-windows\ref\SatDomaci.dll

@@ -1,0 +1,17 @@
+C:\GDI\Sat\Sat\bin\Debug\net6.0-windows\Sat.exe
+C:\GDI\Sat\Sat\bin\Debug\net6.0-windows\Sat.deps.json
+C:\GDI\Sat\Sat\bin\Debug\net6.0-windows\Sat.runtimeconfig.json
+C:\GDI\Sat\Sat\bin\Debug\net6.0-windows\Sat.dll
+C:\GDI\Sat\Sat\bin\Debug\net6.0-windows\Sat.pdb
+C:\GDI\Sat\Sat\obj\Debug\net6.0-windows\Sat.csproj.AssemblyReference.cache
+C:\GDI\Sat\Sat\obj\Debug\net6.0-windows\Sat.Form1.resources
+C:\GDI\Sat\Sat\obj\Debug\net6.0-windows\Sat.csproj.GenerateResource.cache
+C:\GDI\Sat\Sat\obj\Debug\net6.0-windows\Sat.GeneratedMSBuildEditorConfig.editorconfig
+C:\GDI\Sat\Sat\obj\Debug\net6.0-windows\Sat.AssemblyInfoInputs.cache
+C:\GDI\Sat\Sat\obj\Debug\net6.0-windows\Sat.AssemblyInfo.cs
+C:\GDI\Sat\Sat\obj\Debug\net6.0-windows\Sat.csproj.CoreCompileInputs.cache
+C:\GDI\Sat\Sat\obj\Debug\net6.0-windows\Sat.dll
+C:\GDI\Sat\Sat\obj\Debug\net6.0-windows\refint\Sat.dll
+C:\GDI\Sat\Sat\obj\Debug\net6.0-windows\Sat.pdb
+C:\GDI\Sat\Sat\obj\Debug\net6.0-windows\Sat.genruntimeconfig.cache
+C:\GDI\Sat\Sat\obj\Debug\net6.0-windows\ref\Sat.dll

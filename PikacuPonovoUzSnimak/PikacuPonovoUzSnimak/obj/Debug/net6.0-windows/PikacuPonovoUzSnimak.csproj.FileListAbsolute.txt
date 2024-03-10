@@ -1,0 +1,17 @@
+C:\GDI\PikacuPonovoUzSnimak\PikacuPonovoUzSnimak\bin\Debug\net6.0-windows\PikacuPonovoUzSnimak.exe
+C:\GDI\PikacuPonovoUzSnimak\PikacuPonovoUzSnimak\bin\Debug\net6.0-windows\PikacuPonovoUzSnimak.deps.json
+C:\GDI\PikacuPonovoUzSnimak\PikacuPonovoUzSnimak\bin\Debug\net6.0-windows\PikacuPonovoUzSnimak.runtimeconfig.json
+C:\GDI\PikacuPonovoUzSnimak\PikacuPonovoUzSnimak\bin\Debug\net6.0-windows\PikacuPonovoUzSnimak.dll
+C:\GDI\PikacuPonovoUzSnimak\PikacuPonovoUzSnimak\bin\Debug\net6.0-windows\PikacuPonovoUzSnimak.pdb
+C:\GDI\PikacuPonovoUzSnimak\PikacuPonovoUzSnimak\obj\Debug\net6.0-windows\PikacuPonovoUzSnimak.csproj.AssemblyReference.cache
+C:\GDI\PikacuPonovoUzSnimak\PikacuPonovoUzSnimak\obj\Debug\net6.0-windows\PikacuPonovoUzSnimak.Form1.resources
+C:\GDI\PikacuPonovoUzSnimak\PikacuPonovoUzSnimak\obj\Debug\net6.0-windows\PikacuPonovoUzSnimak.csproj.GenerateResource.cache
+C:\GDI\PikacuPonovoUzSnimak\PikacuPonovoUzSnimak\obj\Debug\net6.0-windows\PikacuPonovoUzSnimak.GeneratedMSBuildEditorConfig.editorconfig
+C:\GDI\PikacuPonovoUzSnimak\PikacuPonovoUzSnimak\obj\Debug\net6.0-windows\PikacuPonovoUzSnimak.AssemblyInfoInputs.cache
+C:\GDI\PikacuPonovoUzSnimak\PikacuPonovoUzSnimak\obj\Debug\net6.0-windows\PikacuPonovoUzSnimak.AssemblyInfo.cs
+C:\GDI\PikacuPonovoUzSnimak\PikacuPonovoUzSnimak\obj\Debug\net6.0-windows\PikacuPonovoUzSnimak.csproj.CoreCompileInputs.cache
+C:\GDI\PikacuPonovoUzSnimak\PikacuPonovoUzSnimak\obj\Debug\net6.0-windows\PikacuPonovoUzSnimak.dll
+C:\GDI\PikacuPonovoUzSnimak\PikacuPonovoUzSnimak\obj\Debug\net6.0-windows\refint\PikacuPonovoUzSnimak.dll
+C:\GDI\PikacuPonovoUzSnimak\PikacuPonovoUzSnimak\obj\Debug\net6.0-windows\PikacuPonovoUzSnimak.pdb
+C:\GDI\PikacuPonovoUzSnimak\PikacuPonovoUzSnimak\obj\Debug\net6.0-windows\PikacuPonovoUzSnimak.genruntimeconfig.cache
+C:\GDI\PikacuPonovoUzSnimak\PikacuPonovoUzSnimak\obj\Debug\net6.0-windows\ref\PikacuPonovoUzSnimak.dll

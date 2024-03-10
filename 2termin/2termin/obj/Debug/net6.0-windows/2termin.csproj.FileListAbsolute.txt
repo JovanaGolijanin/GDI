@@ -1,0 +1,17 @@
+C:\GDI\2termin\2termin\bin\Debug\net6.0-windows\2termin.exe
+C:\GDI\2termin\2termin\bin\Debug\net6.0-windows\2termin.deps.json
+C:\GDI\2termin\2termin\bin\Debug\net6.0-windows\2termin.runtimeconfig.json
+C:\GDI\2termin\2termin\bin\Debug\net6.0-windows\2termin.dll
+C:\GDI\2termin\2termin\bin\Debug\net6.0-windows\2termin.pdb
+C:\GDI\2termin\2termin\obj\Debug\net6.0-windows\2termin.csproj.AssemblyReference.cache
+C:\GDI\2termin\2termin\obj\Debug\net6.0-windows\_2termin.Form1.resources
+C:\GDI\2termin\2termin\obj\Debug\net6.0-windows\2termin.csproj.GenerateResource.cache
+C:\GDI\2termin\2termin\obj\Debug\net6.0-windows\2termin.GeneratedMSBuildEditorConfig.editorconfig
+C:\GDI\2termin\2termin\obj\Debug\net6.0-windows\2termin.AssemblyInfoInputs.cache
+C:\GDI\2termin\2termin\obj\Debug\net6.0-windows\2termin.AssemblyInfo.cs
+C:\GDI\2termin\2termin\obj\Debug\net6.0-windows\2termin.csproj.CoreCompileInputs.cache
+C:\GDI\2termin\2termin\obj\Debug\net6.0-windows\2termin.dll
+C:\GDI\2termin\2termin\obj\Debug\net6.0-windows\refint\2termin.dll
+C:\GDI\2termin\2termin\obj\Debug\net6.0-windows\2termin.pdb
+C:\GDI\2termin\2termin\obj\Debug\net6.0-windows\2termin.genruntimeconfig.cache
+C:\GDI\2termin\2termin\obj\Debug\net6.0-windows\ref\2termin.dll

@@ -1,0 +1,17 @@
+C:\GDI\Dom1Zad3\Dom1Zad3\bin\Debug\net6.0-windows\Dom1Zad3.exe
+C:\GDI\Dom1Zad3\Dom1Zad3\bin\Debug\net6.0-windows\Dom1Zad3.deps.json
+C:\GDI\Dom1Zad3\Dom1Zad3\bin\Debug\net6.0-windows\Dom1Zad3.runtimeconfig.json
+C:\GDI\Dom1Zad3\Dom1Zad3\bin\Debug\net6.0-windows\Dom1Zad3.dll
+C:\GDI\Dom1Zad3\Dom1Zad3\bin\Debug\net6.0-windows\Dom1Zad3.pdb
+C:\GDI\Dom1Zad3\Dom1Zad3\obj\Debug\net6.0-windows\Dom1Zad3.csproj.AssemblyReference.cache
+C:\GDI\Dom1Zad3\Dom1Zad3\obj\Debug\net6.0-windows\Dom1Zad3.Form1.resources
+C:\GDI\Dom1Zad3\Dom1Zad3\obj\Debug\net6.0-windows\Dom1Zad3.csproj.GenerateResource.cache
+C:\GDI\Dom1Zad3\Dom1Zad3\obj\Debug\net6.0-windows\Dom1Zad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GDI\Dom1Zad3\Dom1Zad3\obj\Debug\net6.0-windows\Dom1Zad3.AssemblyInfoInputs.cache
+C:\GDI\Dom1Zad3\Dom1Zad3\obj\Debug\net6.0-windows\Dom1Zad3.AssemblyInfo.cs
+C:\GDI\Dom1Zad3\Dom1Zad3\obj\Debug\net6.0-windows\Dom1Zad3.csproj.CoreCompileInputs.cache
+C:\GDI\Dom1Zad3\Dom1Zad3\obj\Debug\net6.0-windows\Dom1Zad3.dll
+C:\GDI\Dom1Zad3\Dom1Zad3\obj\Debug\net6.0-windows\refint\Dom1Zad3.dll
+C:\GDI\Dom1Zad3\Dom1Zad3\obj\Debug\net6.0-windows\Dom1Zad3.pdb
+C:\GDI\Dom1Zad3\Dom1Zad3\obj\Debug\net6.0-windows\Dom1Zad3.genruntimeconfig.cache
+C:\GDI\Dom1Zad3\Dom1Zad3\obj\Debug\net6.0-windows\ref\Dom1Zad3.dll

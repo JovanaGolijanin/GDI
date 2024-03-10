@@ -1,0 +1,17 @@
+C:\GDI\vezbanje\vezbanje\bin\Debug\net6.0-windows\vezbanje.exe
+C:\GDI\vezbanje\vezbanje\bin\Debug\net6.0-windows\vezbanje.deps.json
+C:\GDI\vezbanje\vezbanje\bin\Debug\net6.0-windows\vezbanje.runtimeconfig.json
+C:\GDI\vezbanje\vezbanje\bin\Debug\net6.0-windows\vezbanje.dll
+C:\GDI\vezbanje\vezbanje\bin\Debug\net6.0-windows\vezbanje.pdb
+C:\GDI\vezbanje\vezbanje\obj\Debug\net6.0-windows\vezbanje.csproj.AssemblyReference.cache
+C:\GDI\vezbanje\vezbanje\obj\Debug\net6.0-windows\vezbanje.Form1.resources
+C:\GDI\vezbanje\vezbanje\obj\Debug\net6.0-windows\vezbanje.csproj.GenerateResource.cache
+C:\GDI\vezbanje\vezbanje\obj\Debug\net6.0-windows\vezbanje.GeneratedMSBuildEditorConfig.editorconfig
+C:\GDI\vezbanje\vezbanje\obj\Debug\net6.0-windows\vezbanje.AssemblyInfoInputs.cache
+C:\GDI\vezbanje\vezbanje\obj\Debug\net6.0-windows\vezbanje.AssemblyInfo.cs
+C:\GDI\vezbanje\vezbanje\obj\Debug\net6.0-windows\vezbanje.csproj.CoreCompileInputs.cache
+C:\GDI\vezbanje\vezbanje\obj\Debug\net6.0-windows\vezbanje.dll
+C:\GDI\vezbanje\vezbanje\obj\Debug\net6.0-windows\refint\vezbanje.dll
+C:\GDI\vezbanje\vezbanje\obj\Debug\net6.0-windows\vezbanje.pdb
+C:\GDI\vezbanje\vezbanje\obj\Debug\net6.0-windows\vezbanje.genruntimeconfig.cache
+C:\GDI\vezbanje\vezbanje\obj\Debug\net6.0-windows\ref\vezbanje.dll

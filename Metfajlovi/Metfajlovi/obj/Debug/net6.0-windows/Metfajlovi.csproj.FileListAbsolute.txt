@@ -1,0 +1,17 @@
+C:\GDI\Metfajlovi\Metfajlovi\bin\Debug\net6.0-windows\Metfajlovi.exe
+C:\GDI\Metfajlovi\Metfajlovi\bin\Debug\net6.0-windows\Metfajlovi.deps.json
+C:\GDI\Metfajlovi\Metfajlovi\bin\Debug\net6.0-windows\Metfajlovi.runtimeconfig.json
+C:\GDI\Metfajlovi\Metfajlovi\bin\Debug\net6.0-windows\Metfajlovi.dll
+C:\GDI\Metfajlovi\Metfajlovi\bin\Debug\net6.0-windows\Metfajlovi.pdb
+C:\GDI\Metfajlovi\Metfajlovi\obj\Debug\net6.0-windows\Metfajlovi.csproj.AssemblyReference.cache
+C:\GDI\Metfajlovi\Metfajlovi\obj\Debug\net6.0-windows\Metfajlovi.Form1.resources
+C:\GDI\Metfajlovi\Metfajlovi\obj\Debug\net6.0-windows\Metfajlovi.csproj.GenerateResource.cache
+C:\GDI\Metfajlovi\Metfajlovi\obj\Debug\net6.0-windows\Metfajlovi.GeneratedMSBuildEditorConfig.editorconfig
+C:\GDI\Metfajlovi\Metfajlovi\obj\Debug\net6.0-windows\Metfajlovi.AssemblyInfoInputs.cache
+C:\GDI\Metfajlovi\Metfajlovi\obj\Debug\net6.0-windows\Metfajlovi.AssemblyInfo.cs
+C:\GDI\Metfajlovi\Metfajlovi\obj\Debug\net6.0-windows\Metfajlovi.csproj.CoreCompileInputs.cache
+C:\GDI\Metfajlovi\Metfajlovi\obj\Debug\net6.0-windows\Metfajlovi.dll
+C:\GDI\Metfajlovi\Metfajlovi\obj\Debug\net6.0-windows\refint\Metfajlovi.dll
+C:\GDI\Metfajlovi\Metfajlovi\obj\Debug\net6.0-windows\Metfajlovi.pdb
+C:\GDI\Metfajlovi\Metfajlovi\obj\Debug\net6.0-windows\Metfajlovi.genruntimeconfig.cache
+C:\GDI\Metfajlovi\Metfajlovi\obj\Debug\net6.0-windows\ref\Metfajlovi.dll

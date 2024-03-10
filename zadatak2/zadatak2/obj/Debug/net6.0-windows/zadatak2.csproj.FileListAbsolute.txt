@@ -1,0 +1,17 @@
+C:\GDI\zadatak2\zadatak2\bin\Debug\net6.0-windows\zadatak2.exe
+C:\GDI\zadatak2\zadatak2\bin\Debug\net6.0-windows\zadatak2.deps.json
+C:\GDI\zadatak2\zadatak2\bin\Debug\net6.0-windows\zadatak2.runtimeconfig.json
+C:\GDI\zadatak2\zadatak2\bin\Debug\net6.0-windows\zadatak2.dll
+C:\GDI\zadatak2\zadatak2\bin\Debug\net6.0-windows\zadatak2.pdb
+C:\GDI\zadatak2\zadatak2\obj\Debug\net6.0-windows\zadatak2.csproj.AssemblyReference.cache
+C:\GDI\zadatak2\zadatak2\obj\Debug\net6.0-windows\zadatak2.Form1.resources
+C:\GDI\zadatak2\zadatak2\obj\Debug\net6.0-windows\zadatak2.csproj.GenerateResource.cache
+C:\GDI\zadatak2\zadatak2\obj\Debug\net6.0-windows\zadatak2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GDI\zadatak2\zadatak2\obj\Debug\net6.0-windows\zadatak2.AssemblyInfoInputs.cache
+C:\GDI\zadatak2\zadatak2\obj\Debug\net6.0-windows\zadatak2.AssemblyInfo.cs
+C:\GDI\zadatak2\zadatak2\obj\Debug\net6.0-windows\zadatak2.csproj.CoreCompileInputs.cache
+C:\GDI\zadatak2\zadatak2\obj\Debug\net6.0-windows\zadatak2.dll
+C:\GDI\zadatak2\zadatak2\obj\Debug\net6.0-windows\refint\zadatak2.dll
+C:\GDI\zadatak2\zadatak2\obj\Debug\net6.0-windows\zadatak2.pdb
+C:\GDI\zadatak2\zadatak2\obj\Debug\net6.0-windows\zadatak2.genruntimeconfig.cache
+C:\GDI\zadatak2\zadatak2\obj\Debug\net6.0-windows\ref\zadatak2.dll

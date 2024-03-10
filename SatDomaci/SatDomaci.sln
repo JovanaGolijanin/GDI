@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SatDomaci", "SatDomaci\SatDomaci.csproj", "{4FB807ED-67AB-461A-88EE-C36A73ADDCBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FB807ED-67AB-461A-88EE-C36A73ADDCBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB807ED-67AB-461A-88EE-C36A73ADDCBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB807ED-67AB-461A-88EE-C36A73ADDCBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB807ED-67AB-461A-88EE-C36A73ADDCBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A28D6DAF-06C2-4826-AC56-02277C82A758}
+	EndGlobalSection
+EndGlobal
